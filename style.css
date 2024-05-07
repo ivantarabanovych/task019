@@ -142,6 +142,13 @@ header, .nav {
     justify-content: center;
 }
 
+.service .box .service-content img{
+    min-height: 5rem;
+    max-height: 15rem;
+    min-width: 5rem;
+    max-width: 15rem;
+}
+
 .descr{
     font-size: 2rem;
     text-align: center;
