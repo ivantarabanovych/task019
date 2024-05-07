@@ -15,8 +15,17 @@ body {
     display: block;
 }
 
+.logo{
+    position: relative;
+}
+
+.logo img{
+    width: 60px;
+    height: 60px;
+    margin-right: 120px;
+}
+
 header, .nav {
-    margin: 0;
     background-color: rgb(217, 214, 214);
     display: flex;
     justify-content: center;
